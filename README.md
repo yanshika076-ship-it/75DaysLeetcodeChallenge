@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/yanshika076-ship-it/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/yanshika076-ship-it/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/yanshika076-ship-it/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yanshika076-ship-it/75DaysLeetcodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yanshika076-ship-it/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/yanshika076-ship-it/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yanshika076-ship-it/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yanshika076-ship-it/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yanshika076-ship-it/75DaysLeetcodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yanshika076-ship-it/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/yanshika076-ship-it/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yanshika076-ship-it/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yanshika076-ship-it/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yanshika076-ship-it/75DaysLeetcodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
